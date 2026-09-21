@@ -13,7 +13,7 @@ Cancelado
 Mejor rendimiento + timeout  
 Cancelado
 
-¿Qué diferencias has observado entre las 5 soluciones?  
+*¿Qué diferencias has observado entre las 5 soluciones?*  
 Se puede apreciar que tanto la solución secuencial como la solución con async y await tienen tiempos muy similares, lo que da a entender que en la práctica vienen a ser lo mismo, ambas son secuenciales por lo que lo que tardan es la suma de los ms de cada método más los ms extra que
 sospecho serán por el SO, el Rider o el PC.
 La solución de mejor rendimiento demuestra ser 3 veces más eficaz, ya que tarda tanto como el método en el que más tarda, es decir el de freír, 200ms de calentar sartén + 300ms de freír x.
