@@ -13,6 +13,7 @@ Cancelado
 Mejor rendimiento + timeout  
 Cancelado
 
+
 **¿Qué diferencias has observado entre las 5 soluciones?**  
 Se puede apreciar que tanto la solución secuencial como la solución con async y await tienen tiempos muy similares, lo que da a entender que en la práctica vienen a ser lo mismo, ambas son secuenciales por lo que lo que tardan es la suma de los ms de cada método más los ms extra que
 sospecho serán por el SO, el Rider o el PC.
