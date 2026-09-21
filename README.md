@@ -1,10 +1,13 @@
 Ejecucion secuencial
+
 Tiempo:1544,1708 ms
 
 Ejecucion async/await
+
 Tiempo:1535,719 ms
 
 Ejecucion de mejor rendimiento
+
 Tiempo:518,4194 ms
 
 Async/await + timeout
