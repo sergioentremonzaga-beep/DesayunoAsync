@@ -1,0 +1,14 @@
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\bin\Debug\net10.0\DesayunoAsync.exe
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\bin\Debug\net10.0\DesayunoAsync.deps.json
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\bin\Debug\net10.0\DesayunoAsync.runtimeconfig.json
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\bin\Debug\net10.0\DesayunoAsync.dll
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\bin\Debug\net10.0\DesayunoAsync.pdb
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.AssemblyInfoInputs.cache
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.AssemblyInfo.cs
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.csproj.CoreCompileInputs.cache
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.dll
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\refint\DesayunoAsync.dll
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.pdb
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\DesayunoAsync.genruntimeconfig.cache
+C:\Users\skyra\RiderProjects\DesayunoAsync\DesayunoAsync\obj\Debug\net10.0\ref\DesayunoAsync.dll
